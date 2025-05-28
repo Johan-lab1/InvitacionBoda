@@ -33,7 +33,7 @@ h1 h2 h3{
     font-size: 20px;
     text-transform: none;
     color: #dc4673;
-    padding: 20px;
+    padding: 10px;
 }
 
 img {
@@ -80,12 +80,12 @@ img {
     font-family: 'Great Vibes', cursive;
     font-size: 50px;
     color: #b83280;
-    padding: 50px 0;
+    padding: 10px 0;
 }
 
 .frase {
    
-    margin-top: 35px;
+    margin-top: 15px;
     font-style: italic;
     color: #6a1b4d;
 }
@@ -93,7 +93,7 @@ img {
 
 @media (max-width: 600px) {
     .container {
-        padding: 20px 10px;
+        padding: 10px 10px;
     }
 
     img {
