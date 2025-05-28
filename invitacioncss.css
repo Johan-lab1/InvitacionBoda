@@ -1,7 +1,7 @@
 
 * {
     box-sizing: border-box;
-    padding: 0;
+    padding: 0;;
     margin: 0;
 }
 
@@ -18,7 +18,7 @@ body {
     margin: auto;
     text-align: center;
     background: #fef9f8;
-    padding: 55px 20px;
+    padding: 25px 20px;
     border-radius: 15px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 }
@@ -60,6 +60,8 @@ img {
     height: auto;
     max-width: 100%;
     border-radius: 10px; /* opcional */
+    margin: 100px;
+    padding: 5px 10px;
 }
 
 
@@ -78,9 +80,9 @@ img {
 
 .nombres {
     font-family: 'Great Vibes', cursive;
-    font-size: 50px;
     color: #b83280;
-    padding: 10px 0;
+    font-size: 55px;
+    padding: 15px 0;
 }
 
 .frase {
@@ -93,7 +95,7 @@ img {
 
 @media (max-width: 600px) {
     .container {
-        padding: 10px 10px;
+        padding: 15px 10px;
     }
 
     img {
